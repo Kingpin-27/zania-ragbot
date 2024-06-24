@@ -1,0 +1,13 @@
+llama-index
+llama-index-core
+llama-index-embeddings-openai
+llama-parse
+pyarrow
+pandas
+llama-index-postprocessor-cohere-rerank
+llama-index-vector-stores-kdbai
+kdbai_client
+fastapi
+uvicorn
+python-multipart
+slack_sdk
